@@ -1,1 +1,1 @@
-# .github
+# Saksae - The Agentic CRM for everyone
